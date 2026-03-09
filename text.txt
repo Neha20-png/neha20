@@ -1,10 +1,8 @@
-HELLO git 
 adding 2nd line in my file
 adding my 3rd line in my file
-adding my 4th line in my file
-adding my 5th line in my file
-adding new line to my file
-hello git hub
+adding my 4th line in my file hello git
+adding my 5th line in my file hello git 
+adding new line to my file hello git
 adding my 6th line in my file
 adding my 7th line in my file
 adding my 8th line in my file
